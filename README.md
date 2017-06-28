@@ -3,7 +3,7 @@ Public files for better use of Heores and friends
 # how to embed an heroes and friends projet to my website?
 
 add the reference to the widget:
-`<script src='https://raw.githubusercontent.com/heroesandfriends/public/master/lib/widget.min.js'></script>`
+`<script src='https://cdn.rawgit.com/heroesandfriends/public/master/lib/widget.min.js'></script>`
 
 add the heroes and fiends iframe replacing `--ID-OF-MY-HF-PROJECT--` with the correct one:
 ```html
